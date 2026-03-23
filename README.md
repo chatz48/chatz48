@@ -16,9 +16,9 @@ Outside of work, I'm into sport and fitness and love travelling whenever I get t
 
 #### Personal Projects
 - **[FPL Portfolio Optimisation Solver](https://github.com/chatz48/FPL-Web-App)** — Containerised Gurobi mixed-integer optimisation engine for weekly Fantasy Premier League squad selection under budget and positional constraints, achieving first place across 4 consecutive seasons via walk-forward backtesting
-- **[Energy Grid Demand Forecasting](#)** — End-to-end live electricity demand forecasting system on UK National Grid half-hourly data, using a Temporal Fusion Transformer with CUSUM-based concept drift detection and automated retraining
-- **[ML Pipeline Framework](#)** — Production-grade Python ML framework with plug-and-play algorithm registry, automated EDA, Optuna-based hyperparameter tuning, MLflow/W&B/local experiment tracking, and Cron-scheduled retraining triggers with drift detection
-- **Flood Prediction Models** — A probabilistic UK flood catastrophe model that estimates insured flood losses by combining NRFA river flow data, Land registry property exposure, GEV fitte4d hazard curves and depth-damage vulnerability functions into a full simulation pipeline. 
+- **[Energy Grid Demand Forecasting](https://github.com/chatz48/UK-Energy-Demand)** — End-to-end live electricity demand forecasting system on UK National Grid half-hourly data, using a Temporal Fusion Transformer with CUSUM-based concept drift detection and automated retraining
+- **[ML Pipeline Framework](https://github.com/chatz48/ML-Pipeline-Framework)** — Production-grade Python ML framework with plug-and-play algorithm registry, automated EDA, Optuna-based hyperparameter tuning, MLflow/W&B/local experiment tracking, and Cron-scheduled retraining triggers with drift detection
+- **[Flood Prediction Models](https://github.com/chatz48/UK_Flood_Insurance_Project)** — A probabilistic UK flood catastrophe model that estimates insured flood losses by combining NRFA river flow data, Land registry property exposure, GEV fitte4d hazard curves and depth-damage vulnerability functions into a full simulation pipeline. 
 - **Prostate Cancer Screening** — Applying ML models for anomaly detection on Prostate Cancer Patients, with symptom and dietary tracking to rank imaging neccessity aiming to aid clinical decisions over CAT screening
 
 
