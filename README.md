@@ -32,7 +32,7 @@ Outside of work, I'm into sport and fitness and love travelling whenever I get t
 
 ### Technical Skills
 
-**Languages:** Python, SQL, Java, R
-**LLM & GenAI:** LangChain, LLM fine-tuning (QLoRA), RAG, Vector Databases, Prompt Caching, NLP
-**Machine Learning:** Time-series forecasting, Computer Vision (CNNs), PyTorch, Scikit-Learn, TensorFlow
-**Cloud & Ops:** AWS, Azure, Docker, Kubernetes (AKS/EKS), MLflow, FastAPI, Redis, Git
+- **Languages:** Python, SQL, Java, R
+- **LLM & GenAI:** LangChain, LLM fine-tuning (QLoRA), RAG, Vector Databases, Prompt Caching, NLP
+- **Machine Learning:** Time-series forecasting, Computer Vision (CNNs), PyTorch, Scikit-Learn, TensorFlow
+- **Cloud & Ops:** AWS, Azure, Docker, Kubernetes (AKS/EKS), MLflow, FastAPI, Redis, Git
