@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋 I'm Arun
 
-<!--
-**chatz48/chatz48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Machine Learning Engineer<br>
+🛠️ Building ML models in areas I find interesting and betting markets and fantasy football to housing markets, radiography, energy grids and flood prediction<br>
+🔬 Currently exploring Karpathy's autoresearch framework
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Applied ML and AI Engineer based in London, building production-grade machine learning systems and LLM-powered applications. I have a background in both Economics and Computer Science, which means I care just as much about the real-world impact of a model as its technical depth.
+
+I'm drawn to problems where data tells a meaningful story — whether that's optimising betting markets in real time, fine-tuning LLMs for production, or applying ML to areas I'm genuinely curious about.
+
+Outside of work, I'm into sport and fitness and love travelling whenever I get the chance.
+
+### Things I've Built
+
+#### Personal Projects
+- **[FPL Portfolio Optimisation Solver](#)** — Containerised Gurobi mixed-integer optimisation engine for weekly Fantasy Premier League squad selection under budget and positional constraints, achieving first place across 4 consecutive seasons via walk-forward backtesting
+- **[Energy Grid Demand Forecasting](#)** — End-to-end live electricity demand forecasting system on UK National Grid half-hourly data, using a Temporal Fusion Transformer with CUSUM-based concept drift detection and automated retraining
+- **[ML Pipeline Framework](#)** — Production-grade Python ML framework with plug-and-play algorithm registry, automated EDA, Optuna-based hyperparameter tuning, MLflow/W&B/local experiment tracking, and Cron-scheduled retraining triggers with drift detection
+- **Flood Prediction Models** — ML models applied to flood prediction, exploring geospatial and weather-driven features
+
+#### LLM & GenAI
+- **RAG Conversational System** — Fine-tuned Llama with QLoRA inside a RAG pipeline for customer service automation; reduced hallucination by 22% vs base model and cut API costs by 35% via prompt/response caching (built @ GlowUp)
+- **Autoresearch Exploration** — Experimenting with Andrej Karpathy's autoresearch framework for building research-oriented LLM agents
+
+#### Machine Learning
+- **CNN Ripeness Classifier** — Real-time crop ripeness classification model trained on 100,000+ annotated images, achieving 92% accuracy and replacing manual inspection at scale (built @ Dynium)
+- **Yield Forecasting** — Models to optimise harvest timing, reducing crop waste by 20% (built @ Dynium)
+
+### Technical Skills
+
+**Languages:** Python, SQL, Java, R
+**LLM & GenAI:** LangChain, LLM fine-tuning (QLoRA), RAG, Vector Databases, Prompt Caching, NLP
+**Machine Learning:** Time-series forecasting, Computer Vision (CNNs), PyTorch, Scikit-Learn, TensorFlow
+**Cloud & Ops:** AWS, Azure, Docker, Kubernetes (AKS/EKS), MLflow, FastAPI, Redis, Git
