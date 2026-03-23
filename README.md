@@ -7,7 +7,7 @@
 
 I'm an Applied ML and AI Engineer based in London, building production-grade machine learning systems and LLM-powered applications. I have a background in both Economics and Computer Science, which means I care just as much about the real-world impact of a model as its technical depth.
 
-I'm drawn to problems where data tells a meaningful story, whether that's betting markets and fantasy football to housing markets, radiography, energy grids and flood predictionin real time. Also have experience fine-tuning LLMs for production.
+I'm drawn to problems where data tells a meaningful story, whether that's betting markets and fantasy football to housing markets, radiography and energy grids to even fine-tuning LLMs for production.
 
 Outside of work, I'm into sport and fitness and love travelling whenever I get the chance.
 
