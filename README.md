@@ -18,7 +18,6 @@ Outside of work, I'm into sport and fitness and love travelling whenever I get t
 - **[FPL Portfolio Optimisation Solver](https://github.com/chatz48/FPL-Web-App)** — Containerised Gurobi mixed-integer optimisation engine for weekly Fantasy Premier League squad selection under budget and positional constraints, achieving first place across 4 consecutive seasons via walk-forward backtesting
 - **[Energy Grid Demand Forecasting](https://github.com/chatz48/UK-Energy-Demand)** — End-to-end live electricity demand forecasting system on UK National Grid half-hourly data, using a Temporal Fusion Transformer with CUSUM-based concept drift detection and automated retraining
 - **[Flood Prediction Models](https://github.com/chatz48/UK_Flood_Insurance_Project)** — A probabilistic UK flood catastrophe model that estimates insured flood losses by combining NRFA river flow data, Land registry property exposure, GEV fitte4d hazard curves and depth-damage vulnerability functions into a full simulation pipeline
-- **Prostate Cancer Screening** — Applying ML models for anomaly detection on Prostate Cancer Patients, with symptom and dietary tracking to rank imaging neccessity aiming to aid clinical decisions over CAT screening
 
 
 #### LLM & GenAI
@@ -27,7 +26,9 @@ Outside of work, I'm into sport and fitness and love travelling whenever I get t
 
 #### Machine Learning
 - **CNN Ripeness Classifier** — Real-time crop ripeness classification model trained on 100,000+ annotated images, achieving 92% accuracy and replacing manual inspection at scale
-- **Yield Forecasting** — Models to optimise harvest timing, reducing crop waste by 20% 
+- **Yield Forecasting** — Models to optimise harvest timing, reducing crop waste by 20%
+- **Prostate Cancer Screening** — Applying ML models for anomaly detection on Prostate Cancer Patients, with symptom and dietary tracking to rank imaging neccessity aiming to aid clinical decisions over CAT screening
+
 
 ### Technical Skills
 
